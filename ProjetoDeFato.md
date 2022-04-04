@@ -1,1 +1,1 @@
-Neste arquivo serão desenvolvidos os códigos.
+Neste arquivo serão desenvolvidos os códigos
